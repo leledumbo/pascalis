@@ -1,0 +1,4 @@
+**/lib/**
+/examples/tictactoe/tictactoe
+/examples/tictactoe/tictactoe.dbg
+/examples/tictactoe/tictactoe.lps
